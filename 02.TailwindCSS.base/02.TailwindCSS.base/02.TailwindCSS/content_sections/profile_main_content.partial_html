@@ -1,0 +1,59 @@
+<div>
+    <div>
+        <section>
+            <header>
+                <h2>
+                    Profile Information
+                </h2>
+
+                <p>
+                    Update your account's profile information and email address.
+                </p>
+            </header>
+
+            <form method="post" action="#">
+                <div>
+                    <label>
+                        Name
+                    </label>
+                    <input id="name" name="name" type="text" value="João Miguel da Silva Pereira Antunes" required="required" autofocus="autofocus">
+                </div>
+
+                <div>
+                    <label>
+                        Email
+                    </label>
+                    <input id="email" name="email" type="email" value="j.antunes@mail.pt" required="required">
+
+                </div>
+
+                <div>
+                    <button type="submit">
+                        Save
+                    </button>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+<div>
+    <div>
+        <section>
+            <header>
+                <h2>
+                    Delete Account
+                </h2>
+
+                <p>
+                    Once your account is deleted, all of its resources and data will be permanently deleted. Before
+                    deleting your account, please download any data or information that you wish to retain.
+                </p>
+            </header>
+
+            <button type="submit">
+                Delete Account
+            </button>
+        </section>
+    </div>
+</div>

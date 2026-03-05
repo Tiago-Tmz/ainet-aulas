@@ -1,0 +1,112 @@
+/* Body "reset": */
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: rgb(238, 243, 255);
+    display: flex;
+    flex-direction: column;
+}
+
+/* main sections colors */
+.top {
+    background-color: coral;
+}
+
+.left {
+    background-color: blue;
+}
+
+.middle {
+    background-color: antiquewhite;
+}
+
+main {
+    background-color: lightgray;
+}
+
+.right {
+    background-color: green;
+}
+
+.bottom {
+    background-color: violet;
+
+}
+
+/* items colors and sizes */
+.top-item, .left-item, .main-item, .right-item, .bottom-item {
+    box-sizing: content-box;
+    margin: 0.2rem;
+    padding: 0;
+}
+
+.top-item {
+    min-height: 4rem;
+    min-width: 10rem;
+    background-color: burlywood;
+}
+
+.left-item {
+    min-height: 4rem;
+    min-width: 14rem;
+    background-color: aqua;
+}
+
+.main-item {
+    min-height: 14rem;
+    min-width: 14rem;
+    background-color: darkgray;
+}
+
+.right-item {
+    min-height: 4rem;
+    min-width: 10rem;
+    background-color: darkseagreen;
+}
+
+.bottom-item {
+    min-height: 2rem;
+    min-width: 16rem;
+    background-color: blueviolet;
+}
+
+/* ----------------------------------------- */
+/* Layout related CSS rules: */
+/* ----------------------------------------- */
+/* Add/Remove/Change CSS rules bellow */
+
+.full {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+}
+
+.middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+main {    
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+@media (max-width: 639px) {
+    body {
+        background-color: rgb(201, 216, 252);
+    }
+}
