@@ -40,5 +40,22 @@
 
         // Initialize DOM elements events
         btnHamburger.addEventListener('click', clickBtnHamburger)
+
+        const allMenuOptions = document.querySelectorAll('[data-submenu]')
+        allMenuOptions.forEach(menuOption => {
+            menuOption.addEventListener('pointerdown', (e) => {
+                const subMenuId = menuOption.getAttribute('data-submenu')
+                const subMenu = document.getElementById(subMenuId)
+                // if clicked element is inside submenu, do nothing
+                if (subMenu.contains(e.target)) {
+                    return
+                }
+                const style = window.getComputedStyle(subMenu)
+                if (style.display !== 'none' && style.visibility !== 'hidden') {
+                    document.activeElement.blur()
+                    e.preventDefault()
+                }
+            })
+        })
     })
 })()
