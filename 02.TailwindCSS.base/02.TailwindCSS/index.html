@@ -17,20 +17,22 @@
             <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
 
                 <!-- Logo + Menu Items + Hamburger -->
-                <div class="relative flex justify-between h-16">
+                <div class="relative flex flex-col sm:flex-row px-6 sm:px-0 grow
+                    justify-between">
 
                     <!-- Logo -->
-                    <div class="shrink-0">
+                    <div class="shrink-0 -ms-4">
                         <a href="./index.html">
                             <img src="./img/politecnico_h.svg" class="h-16 w-auto">
                         </a>
                     </div>
 
                     <!-- Menu Items -->
-                    <div class="grow flex justify-between items-stretch space-x-1">
+                    <div id="menu" class="grow flex flex-col sm:flex-row items-stretch
+                    invisible h-0 sm:visible sm:h-auto">
                         <!-- Menu Item: Introduction -->
-                        <div class="flex me-2">
-                            <a class="inline-flex items-center h-16 px-3 pt-1
+                        <div class="flex me-0 sm:me-2">
+                            <a class="grow inline-flex items-center h-16 px-3 pt-1
                 text-sm font-medium text-gray-900
                 border-b-2 border-indigo-400
                 focus:outline-none focus:border-indigo-700" href="./index.html">
@@ -39,22 +41,24 @@
                         </div>
 
                         <!-- Menu Item: Courses -->
-                        <div class="flex me-2">
-                            <a class="inline-flex items-center h-16 px-3 pt-1
+                        <div class="flex me-0 sm:me-2">
+                            <a class="grow inline-flex items-center h-16 px-3 pt-1
                 text-sm font-medium text-gray-500
                 border-b-2 border-transparent
                 hover:border-gray-300 hover:text-gray-700
-                focus:outline-none focus:border-gray-300 focus:text-gray-700" href="./courses.html">
+                focus:outline-none focus:border-gray-300 focus:text-gray-700
+                hover:bg-gray-100 sm:hover:bg-white" href="./courses.html">
                                 Courses
                             </a>
                         </div>
                         <!-- Menu Item: Curricula -->
-                        <div class="group flex me-2" tabindex="8">
-                            <button class="inline-flex items-center h-16 px-3 pt-1
+                        <div class="relative sm:static group flex me-0 sm:me-2" tabindex="8">
+                            <button class="grow inline-flex items-center h-16 px-3 pt-1
                 text-sm font-medium text-gray-500
                 border-b-2 border-transparent
                 hover:border-gray-300 hover:text-gray-700
-                focus:outline-none focus:border-gray-300 focus:text-gray-700">
+                focus:outline-none focus:border-gray-300 focus:text-gray-700
+                hover:bg-gray-100 sm:hover:bg-white">
                                 <div>Curricula</div>
                                 <div>
                                     <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg"
@@ -66,7 +70,7 @@
                                 </div>
                             </button>
 
-                            <div class="w-full items-center
+                            <div class="z-40 w-full items-center
             grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3
             gap-3 p-6 bg-white
             absolute left-0 top-14 origin-top-left
@@ -142,15 +146,16 @@
                         </div>
 
                         <!-- Menu Item: User -->
-                        <div class="relative group flex me-2 ms-auto" tabindex="10">
-                            <button class="inline-flex items-center h-16 px-1 pt-1
+                        <div class="relative group flex ms-0 sm:ms-auto me-0 sm:me-2" tabindex="10">
+                            <button class="grow inline-flex items-center h-16 px-1 pt-1
         text-sm font-medium text-gray-500
         border-b-2 border-transparent hover:text-gray-700
-        focus:outline-none focus:text-gray-700">
+        focus:outline-none focus:text-gray-700
+        hover:bg-gray-100 sm:hover:bg-white">
                                 <div class="pe-1">
                                     <img src="./img/photos/photo_example.jpeg" class="w-12 h-12 rounded-full">
                                 </div>
-                                <div class="ps-1 max-w-11 md:max-w-44 lg:max-w-sm truncate">
+                                <div class="ps-1 max-w-lg sm:max-w-11 md:max-w-44 lg:max-w-sm truncate">
                                     João Miguel da Silva Pereira Antunes
                                 </div>
                                 <div>
@@ -188,12 +193,12 @@
                     </div>
 
                     <!-- Hamburger -->
-                    <div class="hidden">
-                        <button>
+                    <div class="absolute right-0 top-0 flex sm:hidden pt-3 pe-3">
+                        <button id="hamburger_btn">
                             <svg class="h-8 w-8" stroke="currentColor" fill="none" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                <path id="hamburger_btn_open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M4 6h16M4 12h16M4 18h16"></path>
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                <path class="invisible" id="hamburger_btn_close" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M6 18L18 6M6 6l12 12"></path>
                             </svg>
                         </button>
@@ -273,6 +278,7 @@
             </div>
         </main>
     </div>
+    <script src="/src/js/menu.js"></script>
 </body>
 
 </html>
