@@ -54,7 +54,8 @@
                             </a>
                         </div>
                         <!-- Menu Item: Curricula -->
-                        <div data-submenu="submenu_curricula" class="relative sm:static group flex flex-col me-0 sm:me-2" tabindex="8">
+                        <div data-submenu="submenu_curricula"
+                            class="relative sm:static group flex flex-col me-0 sm:me-2" tabindex="8">
                             <button class="grow inline-flex items-center h-16 px-3 pt-1
                 text-sm font-medium text-gray-500
                 border-b-2 border-transparent
@@ -149,7 +150,8 @@
                         </div>
 
                         <!-- Menu Item: User -->
-                        <div data-submenu="submenu_user" class="relative group flex flex-col ms-0 sm:ms-auto me-0 sm:me-2" tabindex="10">
+                        <div data-submenu="submenu_user"
+                            class="relative group flex flex-col ms-0 sm:ms-auto me-0 sm:me-2" tabindex="10">
                             <button class="grow inline-flex items-center h-16 px-3 sm:px-1 pt-1
                 text-sm font-medium text-gray-500
                 border-b-2 border-transparent hover:text-gray-700
@@ -228,7 +230,87 @@
         <main>
             <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">
                 <div class="flex flex-col space-y-6">
-                    
+                    <div class="p-4 sm:p-8 bg-white shadow sm:rounded-lg">
+                        <div class="max-w-xl">
+                            <section>
+                                <header>
+                                    <h2 class="text-lg font-medium text-gray-900">
+                                        Profile Information
+                                    </h2>
+
+                                    <p class="mt-1 text-sm text-gray-600">
+                                        Update your account's profile information and email address.
+                                    </p>
+                                </header>
+
+                                <form method="post" action="#" class="mt-6 space-y-6">
+                                    <div>
+                                        <label class="block font-medium text-sm text-gray-700" for="name">
+                                            Name
+                                        </label>
+                                        <input class="border-gray-300
+ focus:border-indigo-500 focus:ring-indigo-500
+ rounded-md shadow-sm mt-1 block w-full" id="name" name="name" type="text" value="João Miguel da Silva Pereira Antunes"
+                                            required="required" autofocus="autofocus">
+                                    </div>
+
+                                    <div>
+                                        <label class="block font-medium text-sm text-gray-700" for="email">
+                                            Email
+                                        </label>
+                                        <input class="border-gray-300
+ focus:border-indigo-500 focus:ring-indigo-500
+ rounded-md shadow-sm mt-1 block w-full" id="email" name="email" type="email" value="j.antunes@mail.pt"
+                                            required="required">
+
+                                    </div>
+
+                                    <div class="flex items-center gap-4">
+                                        <button type="submit" class="inline-flex items-center px-4 py-2 bg-gray-800
+ border border-transparent rounded-md
+ font-semibold text-xs text-white uppercase
+ tracking-widest hover:bg-gray-700 focus:bg-gray-700
+ active:bg-gray-900
+ focus:outline-none focus:ring-2
+ focus:ring-indigo-500 focus:ring-offset-2
+ transition ease-in-out duration-150">
+                                            Save
+                                        </button>
+                                    </div>
+                                </form>
+                            </section>
+                        </div>
+                    </div>
+
+                    <div class="p-4 sm:p-8 bg-white shadow sm:rounded-lg">
+                        <div class="max-w-xl">
+                            <section class="space-y-6">
+                                <header>
+                                    <h2 class="text-lg font-medium text-gray-900">
+                                        Delete Account
+                                    </h2>
+
+                                    <p class="mt-1 text-sm text-gray-600">
+                                        Once your account is deleted, all of its resources and data will be permanently
+                                        deleted. Before
+                                        deleting your account, please download any data or information that you wish to
+                                        retain.
+                                    </p>
+                                </header>
+
+                                <button type="submit" class="inline-flex items-center px-4 py-2 bg-red-600
+ border border-transparent rounded-md font-semibold
+ text-xs text-white uppercase tracking-widest
+ hover:bg-red-500 active:bg-red-700
+ focus:outline-none focus:ring-2
+ focus:ring-red-500 focus:ring-offset-2
+ transition ease-in-out duration-150">
+                                    Delete Account
+                                </button>
+                            </section>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </main>
