@@ -1,0 +1,178 @@
+[
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FM",
+        "name": "Fundamentals of Mathematics",
+        "name_pt": "Fundamentos de Matemática",
+        "ECTS": 5,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "CTI",
+        "name": "Communication and Information Technology",
+        "name_pt": "Comunicação e Tecnologias de Informação",
+        "ECTS": 4,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FP",
+        "name": "Programming Fundamentals",
+        "name_pt": "Fundamentos de Programação",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FRS",
+        "name": "Fundamentals of Networks and Systems",
+        "name_pt": "Fundamentos de Redes e Sistemas",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "TC",
+        "name": "Computer Technology",
+        "name_pt": "Tecnologia de Computadores",
+        "ECTS": 7,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "LI",
+        "name": "English Language",
+        "name_pt": "Língua Inglesa",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "TSO",
+        "name": "Operating Systems Topics",
+        "name_pt": "Tópicos de Sistemas Operativos",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "AGS",
+        "name": "Systems Administration and Management",
+        "name_pt": "Administração e Gestão de Sistemas",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "RST",
+        "name": "Telematic Networks and Services",
+        "name_pt": "Redes e Serviços Telemáticos",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "SRSI",
+        "name": "Network and Computer Systems Security",
+        "name_pt": "Segurança em Redes e Sistemas Informáticos",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "IP",
+        "name": "Integration into the Profession",
+        "name_pt": "Integração na Profissão",
+        "ECTS": 3,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "SRS",
+        "name": "Network Insurance Services",
+        "name_pt": "Serviços de Rede Seguros",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "ASV",
+        "name": "Virtual Systems Administration",
+        "name_pt": "Administração de Sistemas Virtuais",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "CA",
+        "name": "Active Cybersecurity",
+        "name_pt": "Cibersegurança Ativa",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "PSS",
+        "name": "Systems and Services Design",
+        "name_pt": "Projeto de Sistemas e Serviços",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-CRI",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 30,
+        "hours": 640,
+        "optional": false
+    }
+]

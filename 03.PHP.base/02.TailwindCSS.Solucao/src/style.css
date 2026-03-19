@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree&display=swap");
+@import "tailwindcss";
+@plugin "@tailwindcss/forms";
+
+@theme {
+    --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif,
+        'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    --background-image-logo-light: url('/img/politecnico_h.svg');
+    --background-image-logo-dark: url('/img/politecnico_h_white.svg');
+}

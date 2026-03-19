@@ -1,0 +1,145 @@
+[
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "PARSI",
+        "name": "Policies and Risk Analysis in Information Security",
+        "name_pt": "Políticas e Análise de Risco na Segurança de Informação",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "SRC",
+        "name": "Computer Network Security",
+        "name_pt": "Segurança em Redes de Computadores",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "AFD I",
+        "name": "Digital Forensic Analysis I",
+        "name_pt": "Análise Forense Digital I",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "ASSI",
+        "name": "Secure administration of computer systems",
+        "name_pt": "Administração Segura de Sistemas Informáticos",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "PS I",
+        "name": "Security Project I",
+        "name_pt": "Projeto de Segurança I",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "LTP",
+        "name": "Penetration Testing Laboratory",
+        "name_pt": "Laboratório de Testes de Penetração",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "GARS",
+        "name": "Management and Analysis of Security Reports",
+        "name_pt": "Gestão e Análise de Relatórios de Segurança",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "TISI",
+        "name": "Computer Security Incident Handling",
+        "name_pt": "Tratamento de Incidentes de Segurança Informática",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "AFD II",
+        "name": "Digital Forensic Analysis II",
+        "name_pt": "Análise Forense Digital II",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "PS II",
+        "name": "Security Project II",
+        "name_pt": "Projeto de Segurança II",
+        "ECTS": 6,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "MCIF",
+        "year": 2,
+        "semester": 0,
+        "abbreviation": "Proj",
+        "name": "Project",
+        "name_pt": "Projeto",
+        "ECTS": 60,
+        "hours": 60,
+        "optional": true
+    },
+    {
+        "course": "MCIF",
+        "year": 2,
+        "semester": 0,
+        "abbreviation": "Diss",
+        "name": "Dissertation",
+        "name_pt": "Dissertação",
+        "ECTS": 60,
+        "hours": 60,
+        "optional": true
+    },
+    {
+        "course": "MCIF",
+        "year": 2,
+        "semester": 0,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 60,
+        "hours": 60,
+        "optional": true
+    }
+]
