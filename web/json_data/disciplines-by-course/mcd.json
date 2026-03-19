@@ -1,0 +1,167 @@
+[
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "GSD",
+        "name": "Data Governance and Security",
+        "name_pt": "Governança e Segurança dos Dados",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "BA",
+        "name": "Business Analytics",
+        "name_pt": "Business Analytics",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "ID",
+        "name": "Data Integration",
+        "name_pt": "Integração de Dados",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "AED",
+        "name": "Exploratory Data Analysis",
+        "name_pt": "Análise Exploratória de Dados",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "MRP",
+        "name": "Regression and Forecasting Methods",
+        "name_pt": "Métodos de Regressão e Previsão",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "DM",
+        "name": "Data Mining",
+        "name_pt": "Data Mining",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "BI",
+        "name": "Business Intelligence",
+        "name_pt": "Business Intelligence",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "DL",
+        "name": "Deep Learning",
+        "name_pt": "Deep Learning",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "TM",
+        "name": "Text Mining - Optional",
+        "name_pt": "Text Mining - Opcional",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": true
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "BD",
+        "name": "Big Data - Optional",
+        "name_pt": "Big Data - Opcional",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": true
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "AMD",
+        "name": "Multivariate Data Analysis - Optional",
+        "name_pt": "Análise Multivariada de Dados - Opcional",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": true
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "STP",
+        "name": "Time Series and Forecasting - Optional",
+        "name_pt": "Séries Temporais e Previsão - Opcional",
+        "ECTS": 7.5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Proj",
+        "name": "Project",
+        "name_pt": "Projeto",
+        "ECTS": 45,
+        "hours": 60,
+        "optional": true
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Diss",
+        "name": "Dissertation",
+        "name_pt": "Dissertação",
+        "ECTS": 45,
+        "hours": 60,
+        "optional": true
+    },
+    {
+        "course": "MCD",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 45,
+        "hours": 60,
+        "optional": true
+    }
+]

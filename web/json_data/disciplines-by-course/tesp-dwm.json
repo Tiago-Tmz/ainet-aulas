@@ -1,0 +1,112 @@
+[
+    {
+        "course": "TESP-DWM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "CTI",
+        "name": "Communication and Information Technology",
+        "name_pt": "Comunicação e Tecnologias de Informação",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "PW",
+        "name": "Web Programming",
+        "name_pt": "Programação para Web",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "Mod-PW",
+        "name": "Active Learning Module: Introduction to Multimedia Web Programming",
+        "name_pt": "Módulo Aprendizagem Ativa: Introdução à Programação Web Multimédia",
+        "ECTS": 19,
+        "hours": 165,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "LI",
+        "name": "English Language",
+        "name_pt": "Língua Inglesa",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "PWS",
+        "name": "Server Web Programming",
+        "name_pt": "Programação Web Servidor",
+        "ECTS": 5,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "Mod-PWS",
+        "name": "Active Learning Module: Multimedia Client-Server Web Programming",
+        "name_pt": "Módulo Aprendizagem Ativa: Programação Web Cliente-Servidor Multimédia",
+        "ECTS": 23,
+        "hours": 240,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "MDWS",
+        "name": "Digital Marketing and Social Web",
+        "name_pt": "Marketing Digital e Web Social",
+        "ECTS": 3,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "EPV",
+        "name": "Video Editing and Post-production",
+        "name_pt": "Edição e Pós-produção de Vídeo",
+        "ECTS": 3,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "Mod-DPW",
+        "name": "Active Learning Module: Development of a Multimedia Web Portal",
+        "name_pt": "Módulo Aprendizagem Ativa: Desenvolvimento de um Portal Web Multimédia",
+        "ECTS": 24,
+        "hours": 240,
+        "optional": false
+    },
+    {
+        "course": "TESP-DWM",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 30,
+        "hours": 640,
+        "optional": false
+    }
+]

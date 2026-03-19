@@ -1,0 +1,178 @@
+[
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "DDM",
+        "name": "Development for Mobile Devices",
+        "name_pt": "Desenvolvimento para Dispositivos Móveis",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "IAU",
+        "name": "Interfaces for Ubiquitous Environments",
+        "name_pt": "Interfaces para Ambientes Ubíquos",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "TSNG",
+        "name": "New Generation Technologies and Services",
+        "name_pt": "Tecnologias e Serviços de Nova Geração",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "Cib",
+        "name": "Cybersecurity",
+        "name_pt": "Cibersegurança",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "GPI",
+        "name": "IT Project Management",
+        "name_pt": "Gestão de Projetos Informáticos",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "MSC",
+        "name": "Mobility in Computer Systems",
+        "name_pt": "Mobilidade em Sistemas Computacionais",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "SSC",
+        "name": "Context Sensitive Systems",
+        "name_pt": "Sistemas Sensíveis ao Contexto",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "CN",
+        "name": "Cloud Computing",
+        "name_pt": "Computação em Nuvem",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "DJDM",
+        "name": "Game Development for Mobile Devices",
+        "name_pt": "Desenvolvimento de Jogos para Dispositivos Móveis",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "AE",
+        "name": "Enterprise Architectures",
+        "name_pt": "Arquiteturas Empresariais",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "QS",
+        "name": "Software Quality",
+        "name_pt": "Qualidade de Software",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "SOSU",
+        "name": "Offensive Security in Ubiquitous Systems",
+        "name_pt": "Segurança Ofensiva em Sistemas Ubíquos",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "AFDM",
+        "name": "Forensic Analysis on Mobile Devices",
+        "name_pt": "Análise Forense em Dispositivos Móveis",
+        "ECTS": 6,
+        "hours": 52.5,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 2,
+        "semester": 0,
+        "abbreviation": "Proj",
+        "name": "Project",
+        "name_pt": "Projeto",
+        "ECTS": 60,
+        "hours": 60,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 2,
+        "semester": 0,
+        "abbreviation": "Diss",
+        "name": "Dissertation",
+        "name_pt": "Dissertação",
+        "ECTS": 60,
+        "hours": 60,
+        "optional": true
+    },
+    {
+        "course": "MEI-CM",
+        "year": 2,
+        "semester": 0,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 60,
+        "hours": 60,
+        "optional": true
+    }
+]

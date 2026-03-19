@@ -1,0 +1,189 @@
+[
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FM",
+        "name": "Fundamentals of Mathematics",
+        "name_pt": "Fundamentos de Matemática",
+        "ECTS": 5,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "CTI",
+        "name": "Communication and Information Technology",
+        "name_pt": "Comunicação e Tecnologias da Informação",
+        "ECTS": 4,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "LI",
+        "name": "English Language",
+        "name_pt": "Língua Inglesa",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FP",
+        "name": "Programming Fundamentals",
+        "name_pt": "Fundamentos de Programação",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FBD",
+        "name": "Database Fundamentals",
+        "name_pt": "Fundamentos de Bases de Dados",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "POO",
+        "name": "Object-Oriented Programming",
+        "name_pt": "Programação Orientada a Objetos",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "TE",
+        "name": "Emerging Technologies",
+        "name_pt": "Tecnologias Emergentes",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "TM",
+        "name": "Market Technologies",
+        "name_pt": "Tecnologias de Mercado",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "RTI",
+        "name": "Networks and Internet Technologies",
+        "name_pt": "Redes e Tecnologias de Internet",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "MSI",
+        "name": "Information Systems Modeling",
+        "name_pt": "Modelação de Sistemas de Informação",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "CBD",
+        "name": "Database Complements",
+        "name_pt": "Complementos de Bases de Dados",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "AED",
+        "name": "Algorithms and Data Structures",
+        "name_pt": "Algoritmia e Estruturas de Dados",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "FPN",
+        "name": "Business Process Fundamentals",
+        "name_pt": "Fundamentos de Processos de Negócio",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "PI",
+        "name": "Programming for the Internet",
+        "name_pt": "Programação para a Internet",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "MADS",
+        "name": "Agile Software Development Methodologies",
+        "name_pt": "Metodologias Ágeis de Desenvolvimento de Software",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "IP",
+        "name": "Integration into the Profession",
+        "name_pt": "Integração na Profissão",
+        "ECTS": 3,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-TI",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 30,
+        "hours": 640,
+        "optional": false
+    }
+]

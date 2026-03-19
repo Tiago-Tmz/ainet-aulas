@@ -1,0 +1,189 @@
+[
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FM",
+        "name": "Fundamentals of Mathematics",
+        "name_pt": "Fundamentos de Matemática",
+        "ECTS": 5,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "CTI",
+        "name": "Communication and Information Technology",
+        "name_pt": "Comunicação e Tecnologias de Informação",
+        "ECTS": 4,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FP",
+        "name": "Programming Fundamentals",
+        "name_pt": "Fundamentos de Programação",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FRS",
+        "name": "Fundamentals of Networks and Systems",
+        "name_pt": "Fundamentos de Redes e Sistemas",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "SC",
+        "name": "Computer Systems",
+        "name_pt": "Sistemas Computacionais",
+        "ECTS": 7,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "LI",
+        "name": "English Language",
+        "name_pt": "Língua Inglesa",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "PSO",
+        "name": "Operating Systems Topics",
+        "name_pt": "Tópicos de Sistemas Operativos",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "AGS I",
+        "name": "Systems Administration and Management I",
+        "name_pt": "Administração e Gestão de Sistemas I",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "RST",
+        "name": "Telematic Networks and Services",
+        "name_pt": "Redes e Serviços Telemáticos",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "LR I",
+        "name": "Network Lab I",
+        "name_pt": "Laboratório de Redes I",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "GP",
+        "name": "Project Management",
+        "name_pt": "Gestão de Projetos",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "IP",
+        "name": "Integration into the Profession",
+        "name_pt": "Integração na Profissão",
+        "ECTS": 3,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "SRI",
+        "name": "Computer Network Security",
+        "name_pt": "Segurança de Redes Informáticas",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "LR II",
+        "name": "Network Lab II",
+        "name_pt": "Laboratório de Redes II",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "PRSI",
+        "name": "Network Planning and IT Services",
+        "name_pt": "Planeamento de Redes e Serviços Informáticos",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "AGS II",
+        "name": "Systems Administration and Management II",
+        "name_pt": "Administração e Gestão de Sistemas II",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-RSI",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 30,
+        "hours": 640,
+        "optional": false
+    }
+]

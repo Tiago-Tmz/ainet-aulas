@@ -1,0 +1,200 @@
+[
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FM",
+        "name": "Fundamentals of Mathematics",
+        "name_pt": "Fundamentos de Matemática",
+        "ECTS": 5,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "CTI",
+        "name": "Communication and Information Technology",
+        "name_pt": "Comunicação e Tecnologias de Informação",
+        "ECTS": 4,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "IRSO",
+        "name": "Introduction to Networks and Operating Systems",
+        "name_pt": "Introdução às Redes e Sistemas Operativos",
+        "ECTS": 4,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "FP",
+        "name": "Programming Fundamentals",
+        "name_pt": "Fundamentos de Programação",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "PW-C",
+        "name": "Programming for the Web - Client",
+        "name_pt": "Programação para a Web - Cliente",
+        "ECTS": 5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 1,
+        "abbreviation": "IAPSI",
+        "name": "Introduction to Information Systems Analysis and Design",
+        "name_pt": "Introdução à Análise e Projeto de Sistemas de Informação",
+        "ECTS": 5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "LI",
+        "name": "English Language",
+        "name_pt": "Língua Inglesa",
+        "ECTS": 2,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "CDBD",
+        "name": "Database Design and Development",
+        "name_pt": "Conceção e Desenvolvimento de Bases de Dados",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "MDS",
+        "name": "Software Development Methodologies",
+        "name_pt": "Metodologias de Desenvolvimento de Software",
+        "ECTS": 5,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "DA",
+        "name": "Application Development",
+        "name_pt": "Desenvolvimento de Aplicações",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "PW-S",
+        "name": "Programming for the Web - Server",
+        "name_pt": "Programação para a Web - Servidor",
+        "ECTS": 6,
+        "hours": 60,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 1,
+        "semester": 2,
+        "abbreviation": "TSNG",
+        "name": "Security Topics",
+        "name_pt": "Tópicos de Segurança",
+        "ECTS": 4,
+        "hours": 30,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "IP",
+        "name": "Integration into the Profession",
+        "name_pt": "Integração na Profissão",
+        "ECTS": 3,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "PISI",
+        "name": "Information Systems Platforms",
+        "name_pt": "Plataformas de Sistemas de Informação",
+        "ECTS": 7,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "SIS",
+        "name": "Services and System Interoperability",
+        "name_pt": "Serviços e Interoperabilidade de Sistemas",
+        "ECTS": 5,
+        "hours": 45,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "AMSI",
+        "name": "Mobile Access to Information Systems",
+        "name_pt": "Acesso Móvel a Sistemas de Informação",
+        "ECTS": 6,
+        "hours": 75,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 2,
+        "semester": 1,
+        "abbreviation": "PSI",
+        "name": "Information Systems Project",
+        "name_pt": "Projeto em Sistemas de Informação",
+        "ECTS": 9,
+        "hours": 90,
+        "optional": false
+    },
+    {
+        "course": "TESP-PSI",
+        "year": 2,
+        "semester": 2,
+        "abbreviation": "Estg",
+        "name": "Internship",
+        "name_pt": "Estágio",
+        "ECTS": 30,
+        "hours": 640,
+        "optional": false
+    }
+]
