@@ -4,9 +4,11 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CourseController;
 use App\Http\Controllers\DisciplineController;
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
+// Route::get('/', function () {
+//     return view('welcome');
+// })->name('home');
+
+Route::view('/', 'home')->name('home');
 
 // REPLACE THESE 7 ROUTES:
 // Route::get('courses', [CourseController::class, 'index'])->name('courses.index');
